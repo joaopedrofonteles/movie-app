@@ -1,11 +1,13 @@
 import { Hero } from "./components/hero";
+import { MainContent } from "./components/main-content";
 import { NavBar } from "./components/nav-bar";
 
 const App = () => {
   return (
-    <div className="bg-slate-900 min-h-screen w-full">
+    <div className="bg-zinc-900 min-h-screen w-full">
       <NavBar />
       <Hero />
+      <MainContent />
     </div>
   );
 };
