@@ -3,7 +3,7 @@ import { FaFacebook, FaTwitter, FaYoutube, FaPinterest } from "react-icons/fa6";
 export const Footer = () => {
   return (
     <footer className="bg-[rgb(33,37,41)] py-24 ">
-      <div className="grid grid-cols-1 text-center sm:text-start sm:grid-cols 2 md:grid-cols-4  container mx-auto px-4 md:px-10 text-white/80 gap-8 sm:gap-4">
+      <div className="grid grid-cols-1 text-center md:text-start md:grid-cols-4  container mx-auto px-4 md:px-10 text-white/80 gap-8 sm:gap-4">
 
 
         <div className="space-y-2">
@@ -28,7 +28,7 @@ export const Footer = () => {
           <a href="">Lorem, ipsum</a>
         </div>
         {/* Social */}
-        <div className="flex flex-col gap-2 items-center sm:items-start">
+        <div className="flex flex-col gap-2 items-center md:items-start">
           <h3 className="text-lg text-white font-semibold">Connections</h3>
           <div className="flex gap-4">
             <a href="">
