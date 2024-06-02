@@ -6,7 +6,7 @@ export const series: Serie [] = [
     title: "Loren ipsum dolor",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ",
     date: "08.08.2021",
-    cover: "/card-image.png",
+    cover: "/card-image-2.png",
     badges: ["horror", "vecna"],
   },
   {
@@ -14,14 +14,14 @@ export const series: Serie [] = [
     title: "Loren ipsum dolor",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ",
     date: "08.08.2021",
-    cover: "/card-image.png",
+    cover: "/card-image-2.png",
     badges: ["horror", "vecna"],
   } , {
     id:"3", 
     title: "Loren ipsum dolor",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ",
     date: "08.08.2021",
-    cover: "/card-image.png",
+    cover: "/card-image-2.png",
     badges: ["horror", "vecna"],
   } , {
     id:"4", 
