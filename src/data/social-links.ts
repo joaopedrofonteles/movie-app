@@ -3,14 +3,13 @@ import {
   FaTwitter,
   FaYoutube,
   FaPinterest,
-  FaX,
 } from "react-icons/fa6";
 
 import { SocialLink } from "../types/social-link";
 
 
 
-export const socialLinks = [] = [
+export const socialLinks: SocialLink [] = [
   {
     icon: FaFacebook,
     href:"#",
